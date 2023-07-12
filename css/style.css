@@ -1,0 +1,24 @@
+*{
+    
+    box-sizing: border-box;
+    text-align: left;
+}
+
+
+main{
+    min-height: 80%;
+}
+
+footer{
+    min-height: 10%;
+}
+footer h4{
+    text-align: center;
+}
+button a{
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+}
